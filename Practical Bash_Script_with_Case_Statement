@@ -1,0 +1,51 @@
+✴️Practical Bash Script with case Statement: Handling Menu-Based System Actions.
+This script uses a case statement to perform common administrative tasks, such as:
+🔹 System Overview
+🔹 CPU Information
+🔹 Memory Information
+🔹 Disk Usage
+🔹 View IP Address
+🔹 System Uptime
+🔹 Monitor the System
+🔹 System Last Boot
+🔹 User Login History
+🔹 Current Directory
+
+
+✳️ Example: Real Organizational Use
+Imagine a DevOps team managing 100+ servers. A single, interactive script using case can:
+👉 Display system health
+
+👉 Fetch logs
+
+👉 Restart services
+
+👉 Report uptime
+
+👉 View last login sessions
+
+
+The case statement in bash scripting is used to execute code based on pattern matching.
+
+I use it to perform the above task or actions because it provides a clean, scalable, and organized way to handle user choices.
+
+
+✴️ IMPORTANCE OF CASE STATEMENT
+🔶 Clean alternative to multiple "if, else, elif"
+
+🔶 Pattern matching is very simple
+
+🔶 Scalability
+
+🔶 Default catch-all case
+
+🔶 A good idea for menu-driven bash scripts
+
+🔶 Makes the script easy to read, maintain, and debug
+
+🔶 Reduces the risk of wrong commands being run in production or support environments.
+
+🔶 Promotes DRY (Don't Repeat Yourself) coding practices, making automation scripts efficient.
+
+Watch the Demo Script Walkthrough Here:
+https://www.youtube.com/watch?v=9wQd_cKFm9k&t=7s
